@@ -31,7 +31,7 @@ You can download my full CV [here](/files/Abdelrahman_Abdelgawad_CV.pdf).
 
 See the [Publications](/publications/) page for details.
 
-## Teaching
+## Teaching & Mentoring Experience
 
 * **Graduate Teaching Assistant**, EK 125: Introduction to Programming for Engineers, Boston University (Spring 2026)
 * **RISE Mentor**, Boston University Research in Science & Engineering (Summer 2025)
