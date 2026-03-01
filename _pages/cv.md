@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+You can download my full CV [here](/files/Abdelrahman_Abdelgawad_CV.pdf).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Ph.D. in Systems Engineering**, Boston University, Sep 2024 – Present
+  * Advisors: Roberto Tron, Sean B. Andersson (BU Robotics Lab)
+  * Collaborating: Renato Mancuso (CPS Lab)
+  * GPA: 4.0/4.0 — Qualifying Exam passed Spring 2025
+  * Relevant Coursework: Nonlinear Control, Optimization, Optimal Control, Deep Learning
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **B.S. in Mechatronics and Robotics Engineering**, Egypt-Japan University of Science and Technology, Sep 2019 – Mar 2024
+  * GPA: 3.93/4.0, Ranked 1st in cohort
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Research Experience
+
+* **Graduate Researcher**, Boston University (Sep 2024 – Present)
+  * Developed Fulfillment Priority Logic (FPL), a framework for multi-objective RL that replaces hand-tuned reward weights with logical specifications, achieving up to 5× sample efficiency over Soft Actor-Critic.
+  * Accelerated neural Lyapunov-stable controller synthesis by using FPL to approximate stability conditions before formal verification, reducing training time by up to 95% while preserving formal guarantees.
+
+## Teaching
+
+* **Graduate Teaching Assistant**, EK 125: Introduction to Programming for Engineers, Boston University (Spring 2026)
+* **RISE Mentor**, Boston University Research in Science & Engineering (Summer 2025)
+
+## Honors & Awards
+
+* Dean's Fellowship, Boston University (2024–2025): Full tuition and stipend
+* Governorate Merit-based Bachelor's Scholarship (2019–2024): Full tuition
