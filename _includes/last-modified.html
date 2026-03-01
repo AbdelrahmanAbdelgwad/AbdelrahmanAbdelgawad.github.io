@@ -1,0 +1,3 @@
+{% if page.last_modified_at %}
+  <p class="page__date"><small><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</small></p>
+{% endif %}

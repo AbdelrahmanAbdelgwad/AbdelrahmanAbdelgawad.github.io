@@ -247,6 +247,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-last-modified-at   # Added by Abdelrahman Abdelgawad on 2026-03-1
+
+
 
 whitelist:
   - jekyll-feed
@@ -255,6 +258,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-last-modified-at    # Added by Abdelrahman Abdelgawad on 2026-03-1
 
 # Archives
 category_archive:

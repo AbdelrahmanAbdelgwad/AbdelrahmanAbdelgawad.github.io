@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% include last-modified.html %}
 
 You can download my full CV [here](/files/Abdelrahman_Abdelgawad_CV.pdf).
 
