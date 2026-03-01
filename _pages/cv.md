@@ -17,22 +17,19 @@ You can download my full CV [here](/files/Abdelrahman_Abdelgawad_CV.pdf).
   * Advisors: Roberto Tron, Sean B. Andersson (BU Robotics Lab)
   * Collaborating: Renato Mancuso (CPS Lab)
   * GPA: 4.0/4.0 — Qualifying Exam passed Spring 2025
-  * Relevant Coursework: Nonlinear Control, Optimization, Optimal Control, Deep Learning
 
 * **B.S. in Mechatronics and Robotics Engineering**, Egypt-Japan University of Science and Technology, Sep 2019 – Mar 2024
   * GPA: 3.93/4.0, Ranked 1st in cohort
-
-## Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 ## Research Experience
 
 * **Graduate Researcher**, Boston University (Sep 2024 – Present)
   * Developed Fulfillment Priority Logic (FPL), a framework for multi-objective RL that replaces hand-tuned reward weights with logical specifications, achieving up to 5× sample efficiency over Soft Actor-Critic.
   * Accelerated neural Lyapunov-stable controller synthesis by using FPL to approximate stability conditions before formal verification, reducing training time by up to 95% while preserving formal guarantees.
+
+## Publications
+
+See the [Publications](/publications/) page for details.
 
 ## Teaching
 

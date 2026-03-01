@@ -19,7 +19,7 @@ My research focuses on making **neural network controllers practically certifiab
 
 - **[Jan 2026]** Paper accepted at **ACC 2026**: *Accelerating Lyapunov-Stable Neural Control using Fulfillment Priority Logic*
 - **[Oct 2025]** Paper published at **IROS 2025**: *Closing the Intent-to-Behavior Gap via Fulfillment Priority Logic*
-- **[Spring 2025]** Passed PhD Qualifying Exam
+- **[May 2025]** Passed PhD Qualifying Exam
 
 ## Research Interests
 
